@@ -11,7 +11,7 @@
     "cookie-parser": "^1.4.4",
     "db-migrate-pg": "^0.5.0",
     "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ip": "^1.1.5",
     "is-running": "^2.1.0",
     "jsbarcode": "^3.11.0",
